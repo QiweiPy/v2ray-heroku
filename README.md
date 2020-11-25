@@ -1,6 +1,8 @@
-# V2Ray Heroku     [forked from bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)
+# V2Ray Heroku     
 
 ## 概述
+
+从[bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)Fork过来的，简单修改后自用。
 
 用于在 Heroku 上部署 V2Ray Websocket。
 
